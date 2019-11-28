@@ -1,0 +1,10 @@
+{
+  "name": "redis-learn",
+  "version": "0.0.1",
+  "description": "学习redis.",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
